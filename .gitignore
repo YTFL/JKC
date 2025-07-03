@@ -1,0 +1,37 @@
+
+---
+
+### ✅ `.gitignore`
+
+```gitignore
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs and outputs
+*.log
+*.out
+*.pdf
+
+# Archives
+*.zip
+*.cbz
+
+# Temporary files
+*.tmp
+*.bak
