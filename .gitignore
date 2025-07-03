@@ -1,8 +1,4 @@
 
----
-
-### ✅ `.gitignore`
-
 ```gitignore
 # Python cache
 __pycache__/
