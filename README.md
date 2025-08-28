@@ -115,8 +115,7 @@ Please keep your code clean and documented where necessary.
 
 ## License
 
-This project is licensed under the **MIT License**.
-You’re free to use, modify, and distribute it.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) for full details.
 
 ---
 
